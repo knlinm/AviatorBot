@@ -1,5 +1,5 @@
 document.querySelector(".social").addEventListener("click", function () {
-    window.location.href = "https://t.me/ardakartal";
+    window.location.href = "https://t.me/ardakartalresmi";
 })
 
 document.querySelector(".tntCount").addEventListener("click", function () {

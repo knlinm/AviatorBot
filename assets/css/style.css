@@ -128,10 +128,6 @@ div.item img.item {
         font-size: 30px;
     }
 
-    .social img {
-        width: 12%;
-        height: fit-content;
-    }
 
 }
 
@@ -156,7 +152,7 @@ div.social {
 .social img {
     width: 45px;
     height: 45px;
-    height: fit-content;
+    
 }
 
 div.social {
